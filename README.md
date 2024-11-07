@@ -1,11 +1,10 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=beatrizmoraesm&color=006bed)
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Estatística na Universidade Federal de Uberlândia.
+- 💼 Trabalhando como Data Science Intern na Bayer.
+- 🌱 Aprendendo mais sobre Data Science.
 
 ## Minhas Skills
 
