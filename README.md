@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=beatrizmoraesm&color=006bed)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=Hi,+Folks!;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&width=1000&lines=Hi,+Folks!%F0%9F%91%8B;Be+Welcome!%E2%9C%A8)](https://git.io/typing-svg)
 
 ## Sobre mim
 
