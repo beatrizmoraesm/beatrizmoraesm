@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 🎓 Estudando Estatística na Universidade Federal de Uberlândia.
-- 💼 Trabalhando como Data Science Intern na Bayer.
+- 🎓 Cursando Estatística na Universidade Federal de Uberlândia.
+- 💼 Data Science Intern na Bayer.
 - 🌱 Aprendendo mais sobre Data Science.
 
 ## Minhas Skills
@@ -13,8 +13,6 @@
 ![Google Big Query](https://img.shields.io/badge/-Google%20Big%20Query-333333?style=flat&logo=googlebigquery)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Power Bi](https://img.shields.io/badge/-Power%20Bi-333333?style=flat&logo=powerbi)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
