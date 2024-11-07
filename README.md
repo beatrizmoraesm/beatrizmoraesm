@@ -11,9 +11,9 @@
 
 **Aplicações e dados**
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
