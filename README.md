@@ -21,6 +21,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Beatriz-Moraes-Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/beatriz-moraes-moreira-8548331a2/)
+[![Linkedin](https://img.shields.io/badge/-Beatriz+Moraes+Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-moraes-moreira-8548331a2/)](https://www.linkedin.com/in/beatriz-moraes-moreira-8548331a2/)
 [![Gmail Badge](https://img.shields.io/badge/-beatrizmoraestt@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:beatrizmoraestt@outlook.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/beatrizmoraesm)
