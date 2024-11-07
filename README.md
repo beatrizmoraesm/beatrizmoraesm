@@ -16,6 +16,7 @@
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Power Bi](https://img.shields.io/badge/-Power%20Bi-333333?style=flat&logo=powerbi)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
