@@ -4,7 +4,7 @@
 
 - 🎓 Cursando Estatística na Universidade Federal de Uberlândia.
 - 💼 Data Science Intern na Bayer.
-- 🌱 Desbravando o universio da Ciência de Dados.
+- 🌱 Desbravando o universo da Ciência de Dados.
 
 ## Minhas Skills
 
