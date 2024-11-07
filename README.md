@@ -13,7 +13,6 @@
 ![Google Big Query](https://img.shields.io/badge/-Google%20Big%20Query-333333?style=flat&logo=googlebigquery)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Power Bi](https://img.shields.io/badge/-Power%20Bi-333333?style=flat&logo=powerbi)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
